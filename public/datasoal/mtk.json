@@ -1,0 +1,29 @@
+{
+  "judul": "Soal Matematika Kelas 5",
+  "soal": [
+    {
+      "nomor": 1,
+      "pertanyaan": "15 + 28 = ?",
+      "pilihan": {
+        "A": "42",
+        "B": "43",
+        "C": "44",
+        "D": "45"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "15 + 28 = 43. Cara menghitung: 15 + 28 = (10 + 20) + (5 + 8) = 30 + 13 = 43"
+    },
+    {
+      "nomor": 2,
+      "pertanyaan": "8 × 7 = ?",
+      "pilihan": {
+        "A": "54",
+        "B": "56",
+        "C": "58",
+        "D": "60"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "8 × 7 = 56. Cara mengingat: 7 × 8 adalah salah satu perkalian dasar yang penting untuk dihafal. Atau bisa dihitung: 8 × 7 = (8 × 5) + (8 × 2) = 40 + 16 = 56"
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "judul": "LATIHAN SOAL ALN IPA (40 BUTIR SOAL)",
+  "soal": [
+    {
+      "nomor": 1,
+      "pertanyaan": "Faktor eksternal yang paling berpengaruh terhadap laju fotosintesis dan pertumbuhan tanaman adalah...",
+      "pilihan": {
+        "A": "Hormon auksin dan giberelin",
+        "B": "Cahaya matahari dan air",
+        "C": "Gen dan nutrisi",
+        "D": "Suhu dan kelembaban udara"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Faktor eksternal utama yang mempengaruhi fotosintesis (proses penting untuk pertumbuhan) adalah intensitas cahaya matahari dan ketersediaan air."
+    },
+    {
+      "nomor": 2,
+      "pertanyaan": "Pertambahan diameter batang pada tumbuhan dikotil, yang menyebabkan batang menjadi semakin besar dan keras, disebabkan oleh aktivitas jaringan...",
+      "pilihan": {
+        "A": "Meristem apikal",
+        "B": "Kambium vaskular",
+        "C": "Jaringan parenkim",
+        "D": "Floem dan xilem primer"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Pertambahan diameter batang adalah contoh pertumbuhan sekunder, yang terjadi karena pembelahan aktif sel-sel kambium vaskular."
+    },
+    {
+      "nomor": 3,
+      "pertanyaan": "Hewan yang menyimpan telur di dalam tubuh induknya sampai menetas dan kemudian melahirkan anak, seperti kadal dan beberapa jenis ular, diklasifikasikan sebagai hewan...",
+      "pilihan": {
+        "A": "Ovipar",
+        "B": "Vivipar",
+        "C": "Ovovivipar",
+        "D": "Aseksual"
+      },
+      "kunciJawaban": "C",
+      "pembahasan": "Ovovivipar adalah perkembangbiakan di mana embrio berkembang dalam telur di dalam tubuh induk dan mendapatkan nutrisi dari cadangan makanan di dalam telur, bukan dari plasenta induk."
+    },
+    {
+      "nomor": 4,
+      "pertanyaan": "Perbedaan utama antara hewan **ovipar** dan **vivipar** terletak pada...",
+      "pilihan": {
+        "A": "Suhu tubuh hewan",
+        "B": "Cara mendapatkan nutrisi untuk embrio",
+        "C": "Tempat perkembangan embrio",
+        "D": "Jumlah individu yang dihasilkan"
+      },
+      "kunciJawaban": "C",
+      "pembahasan": "Ovipar mengembangkan embrio di luar tubuh induk (dalam telur), sementara vivipar mengembangkan embrio di dalam tubuh induk (rahim)."
+    },
+    {
+      "nomor": 5,
+      "pertanyaan": "Urutan fase metamorfosis sempurna (holometabola) yang benar adalah...",
+      "pilihan": {
+        "A": "Telur $\\rightarrow$ Nimfa $\\rightarrow$ Pupa $\\rightarrow$ Imago",
+        "B": "Telur $\\rightarrow$ Larva $\\rightarrow$ Pupa $\\rightarrow$ Imago",
+        "C": "Telur $\\rightarrow$ Larva $\\rightarrow$ Nimfa $\\rightarrow$ Imago",
+        "D": "Telur $\\rightarrow$ Pupa $\\rightarrow$ Larva $\\rightarrow$ Imago"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Metamorfosis sempurna memiliki empat tahapan: Telur, Larva, Pupa (kepompong), dan Imago (dewasa)."
+    },
+    {
+      "nomor": 6,
+      "pertanyaan": "Contoh hewan yang mengalami metamorfosis tidak sempurna (hemimetabola) adalah...",
+      "pilihan": {
+        "A": "Kupu-kupu",
+        "B": "Kumbang",
+        "C": "Belalang",
+        "D": "Nyamuk"
+      },
+      "kunciJawaban": "C",
+      "pembahasan": "Belalang, jangkrik, dan kecoa mengalami metamorfosis tidak sempurna dengan urutan Telur $\\rightarrow$ Nimfa (mirip dewasa tapi kecil) $\\rightarrow$ Imago (dewasa)."
+    },
+    {
+      "nomor": 7,
+      "pertanyaan": "Tahap perkembangan manusia yang ditandai dengan pencapaian kematangan seksual (pubertas), serta perkembangan identitas diri yang pesat, disebut masa...",
+      "pilihan": {
+        "A": "Anak-anak",
+        "B": "Bayi",
+        "C": "Remaja",
+        "D": "Dewasa"
+      },
+      "kunciJawaban": "C",
+      "pembahasan": "Masa remaja adalah transisi dari masa anak-anak ke dewasa, ditandai dengan perubahan fisik, psikologis, dan emosional yang drastis, termasuk pubertas."
+    },
+    {
+      "nomor": 8,
+      "pertanyaan": "Penurunan fungsi organ dan metabolisme tubuh, serta peningkatan risiko penyakit degeneratif, adalah karakteristik utama dari masa...",
+      "pilihan": {
+        "A": "Anak-anak",
+        "B": "Remaja",
+        "C": "Dewasa",
+        "D": "Lansia"
+      },
+      "kunciJawaban": "D",
+      "pembahasan": "Lansia (lanjut usia) adalah masa di mana proses penuaan (senescence) menyebabkan penurunan progresif pada fungsi biologis dan fisik."
+    },
+    {
+      "nomor": 9,
+      "pertanyaan": "Hasil akhir dari proses **spermatogenesis** yang terjadi di testis adalah...",
+      "pilihan": {
+        "A": "Satu ootid dan tiga polosit",
+        "B": "Empat sel sperma fungsional",
+        "C": "Satu sel sperma dan tiga badan polar",
+        "D": "Satu oosit sekunder dan satu polosit"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Setiap satu spermatogonium akan menghasilkan empat sel sperma (spermatozoa) fungsional melalui proses spermatogenesis."
+    },
+    {
+      "nomor": 10,
+      "pertanyaan": "Peristiwa yang hanya terjadi pada **oogenesis** dan tidak terjadi pada spermatogenesis adalah pembentukan...",
+      "pilihan": {
+        "A": "Oogonium",
+        "B": "Meiosis",
+        "C": "Badan polar (polosit)",
+        "D": "Spermatosit"
+      },
+      "kunciJawaban": "C",
+      "pembahasan": "Oogenesis adalah proses pembentukan ovum yang tidak simetris, menghasilkan satu ovum fungsional dan dua hingga tiga badan polar (polosit) yang akan berdegenerasi."
+    },
+    {
+      "nomor": 11,
+      "pertanyaan": "Organ reproduksi laki-laki yang berfungsi sebagai tempat produksi hormon testosteron dan spermatozoa adalah...",
+      "pilihan": {
+        "A": "Epididimis",
+        "B": "Vas deferens",
+        "C": "Testis",
+        "D": "Uretra"
+      },
+      "kunciJawaban": "C",
+      "pembahasan": "Testis adalah organ utama reproduksi laki-laki yang memiliki fungsi eksokrin (menghasilkan sperma) dan fungsi endokrin (menghasilkan hormon testosteron)."
+    },
+    {
+      "nomor": 12,
+      "pertanyaan": "Organ reproduksi perempuan yang berfungsi sebagai tempat terjadinya pembuahan (fertilisasi) adalah...",
+      "pilihan": {
+        "A": "Ovarium",
+        "B": "Uterus (rahim)",
+        "C": "Vagina",
+        "D": "Tuba Fallopi (oviduk)"
+      },
+      "kunciJawaban": "D",
+      "pembahasan": "Fertilisasi, atau peleburan sperma dan ovum, umumnya terjadi di saluran Tuba Fallopi (oviduk)."
+    },
+    {
+      "nomor": 13,
+      "pertanyaan": "Hormon yang berperan merangsang pematangan folikel di ovarium pada fase pra-ovulasi (fase folikuler) adalah...",
+      "pilihan": {
+        "A": "Hormon Luteinizing (LH)",
+        "B": "Progesteron",
+        "C": "Hormon Follicle-Stimulating (FSH)",
+        "D": "Oksitosin"
+      },
+      "kunciJawaban": "C",
+      "pembahasan": "FSH berfungsi merangsang perkembangan folikel yang berisi sel telur di ovarium pada awal siklus menstruasi."
+    },
+    {
+      "nomor": 14,
+      "pertanyaan": "Jika seorang wanita mengalami menstruasi pada tanggal 5 Oktober, dengan siklus rata-rata 28 hari, perkiraan awal periode menstruasi berikutnya adalah...",
+      "pilihan": {
+        "A": "2 November",
+        "B": "19 Oktober",
+        "C": "28 Oktober",
+        "D": "5 November"
+      },
+      "kunciJawaban": "A",
+      "pembahasan": "Perkiraan menstruasi berikutnya: $5 \\text{ Oktober} + 28 \\text{ hari} = 33 \\text{ hari}$. Karena Oktober memiliki $31 \\text{ hari}$, maka $33 - 31 = 2 \\text{ November}$."
+    },
+    {
+      "nomor": 15,
+      "pertanyaan": "Fungsi utama dari **plasenta** selama kehamilan adalah...",
+      "pilihan": {
+        "A": "Melindungi janin dari benturan fisik",
+        "B": "Menyediakan cairan pelindung bagi janin",
+        "C": "Tempat pertukaran nutrisi, oksigen, dan zat sisa antara ibu dan janin",
+        "D": "Tempat perkembangan janin hingga siap lahir"
+      },
+      "kunciJawaban": "C",
+      "pembahasan": "Plasenta adalah organ yang berfungsi vital sebagai penghubung dan tempat pertukaran zat antara aliran darah ibu dan janin."
+    },
+    {
+      "nomor": 16,
+      "pertanyaan": "Bayi kembar yang berasal dari satu zigot yang membelah sempurna disebut...",
+      "pilihan": {
+        "A": "Kembar fraternal (dizigotik)",
+        "B": "Kembar identik (monozigotik)",
+        "C": "Kembar siam",
+        "D": "Kembar superfetasi"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Kembar identik (monozigotik) terjadi ketika satu sel telur dibuahi oleh satu sperma, dan zigot tersebut membelah menjadi dua embrio yang terpisah."
+    },
+    {
+      "nomor": 17,
+      "pertanyaan": "Bagian neuron yang berfungsi menerima impuls (rangsangan) dari neuron lain atau dari indra (reseptor) adalah...",
+      "pilihan": {
+        "A": "Akson",
+        "B": "Dendrit",
+        "C": "Badan sel",
+        "D": "Selubung mielin"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Dendrit adalah cabang pendek pada badan sel saraf yang berfungsi menangkap dan menghantarkan impuls ke badan sel."
+    },
+    {
+      "nomor": 18,
+      "pertanyaan": "Selubung **mielin** pada akson berfungsi untuk...",
+      "pilihan": {
+        "A": "Menyintesis neurotransmitter",
+        "B": "Meningkatkan kecepatan rambatan impuls",
+        "C": "Menerima impuls dari sel lain",
+        "D": "Mengatur keseimbangan kimiawi sel saraf"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Mielin berfungsi sebagai isolator dan memungkinkan transmisi sinyal saraf melompat dari satu nodus Ranvier ke nodus lainnya (konduksi saltatorik), sehingga mempercepat rambatan impuls."
+    },
+    {
+      "nomor": 19,
+      "pertanyaan": "Lintasan yang dilalui oleh impuls pada **gerak refleks** melibatkan urutan...",
+      "pilihan": {
+        "A": "Reseptor $\\rightarrow$ Neuron sensorik $\\rightarrow$ Otak $\\rightarrow$ Neuron motorik $\\rightarrow$ Efektor",
+        "B": "Reseptor $\\rightarrow$ Neuron sensorik $\\rightarrow$ Sumsum tulang belakang $\\rightarrow$ Neuron motorik $\\rightarrow$ Efektor",
+        "C": "Reseptor $\\rightarrow$ Neuron motorik $\\rightarrow$ Otak $\\rightarrow$ Neuron sensorik $\\rightarrow$ Efektor",
+        "D": "Reseptor $\\rightarrow$ Neuron intermediet $\\rightarrow$ Sumsum tulang belakang $\\rightarrow$ Efektor"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Gerak refleks adalah gerak cepat dan tak disadari, impulsnya hanya sampai di Sumsum Tulang Belakang (pusat refleks) tanpa perlu diolah di otak."
+    },
+    {
+      "nomor": 20,
+      "pertanyaan": "Bagian otak yang bertanggung jawab utama untuk menjaga keseimbangan tubuh, koordinasi gerakan, dan postur adalah...",
+      "pilihan": {
+        "A": "Serebrum (Otak Besar)",
+        "B": "Talamus",
+        "C": "Serebelum (Otak Kecil)",
+        "D": "Medula Oblongata"
+      },
+      "kunciJawaban": "C",
+      "pembahasan": "Serebelum (Otak Kecil) berfungsi utama dalam koordinasi gerakan volunter (sadar), keseimbangan, dan postur."
+    },
+    {
+      "nomor": 21,
+      "pertanyaan": "Bagian mata yang berfungsi mengatur intensitas cahaya yang masuk ke mata adalah...",
+      "pilihan": {
+        "A": "Retina",
+        "B": "Lensa",
+        "C": "Pupil dan Iris",
+        "D": "Kornea"
+      },
+      "kunciJawaban": "C",
+      "pembahasan": "Iris adalah otot yang mengatur ukuran Pupil. Pupil adalah celah yang dilewati cahaya. Jadi, Iris mengatur seberapa banyak cahaya yang masuk melalui Pupil."
+    },
+    {
+      "nomor": 22,
+      "pertanyaan": "Bagian telinga yang berfungsi mengubah getaran suara menjadi impuls saraf untuk dikirim ke otak adalah...",
+      "pilihan": {
+        "A": "Telinga luar (Daun telinga)",
+        "B": "Gendang telinga (Membran timpani)",
+        "C": "Tulang-tulang pendengaran",
+        "D": "Koklea (Rumah siput) dengan Organ Korti"
+      },
+      "kunciJawaban": "D",
+      "pembahasan": "Di dalam koklea terdapat Organ Korti yang merupakan reseptor pendengaran. Organ Korti mengubah energi mekanik (getaran) menjadi sinyal listrik (impuls saraf)."
+    },
+    {
+      "nomor": 23,
+      "pertanyaan": "Kekurangan hormon **tiroksin** pada anak-anak dapat menyebabkan kondisi...",
+      "pilihan": {
+        "A": "Diabetes Melitus",
+        "B": "Gigantisme",
+        "C": "Kretinisme",
+        "D": "Penyakit Addison"
+      },
+      "kunciJawaban": "C",
+      "pembahasan": "Tiroksin sangat penting untuk perkembangan sistem saraf. Kekurangan tiroksin pada masa anak-anak menyebabkan kretinisme, ditandai dengan hambatan pertumbuhan fisik dan mental."
+    },
+    {
+      "nomor": 24,
+      "pertanyaan": "Hormon **insulin** yang diproduksi oleh pankreas berfungsi untuk...",
+      "pilihan": {
+        "A": "Meningkatkan kadar gula darah",
+        "B": "Menurunkan kadar gula darah",
+        "C": "Meningkatkan denyut jantung",
+        "D": "Mengatur metabolisme kalsium"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Insulin membantu sel-sel tubuh mengambil glukosa dari darah untuk digunakan sebagai energi atau disimpan sebagai glikogen di hati, sehingga menurunkan kadar gula darah."
+    },
+    {
+      "nomor": 25,
+      "pertanyaan": "Hormon pada tumbuhan yang berperan dalam pemanjangan sel pada daerah titik tumbuh dan pembengkokan batang menuju arah datangnya cahaya (fototropisme) adalah...",
+      "pilihan": {
+        "A": "Giberelin",
+        "B": "Sitokinin",
+        "C": "Auksin",
+        "D": "Asam Absisat"
+      },
+      "kunciJawaban": "C",
+      "pembahasan": "Auksin diproduksi di ujung batang/akar dan berperan dalam pemanjangan sel. Auksin yang sensitif cahaya akan menyebabkan fototropisme."
+    },
+    {
+      "nomor": 26,
+      "pertanyaan": "Dampak psikologis utama dari penggunaan **psikotropika jenis depresan** seperti alkohol atau sedatif dalam dosis tinggi adalah...",
+      "pilihan": {
+        "A": "Halusinasi dan paranoid",
+        "B": "Peningkatan denyut jantung dan energi berlebihan",
+        "C": "Penurunan kesadaran, perlambatan reaksi, dan euforia palsu",
+        "D": "Ketegangan dan kecemasan"
+      },
+      "kunciJawaban": "C",
+      "pembahasan": "Depresan bekerja dengan menekan sistem saraf pusat, yang mengakibatkan perlambatan fungsi tubuh dan pikiran."
+    },
+    {
+      "nomor": 27,
+      "pertanyaan": "Zat **nikotin** pada rokok diklasifikasikan sebagai zat adiktif karena...",
+      "pilihan": {
+        "A": "Menyebabkan kerusakan paru-paru secara langsung",
+        "B": "Menyebabkan ketergantungan fisik dan psikologis",
+        "C": "Memperlambat kinerja sistem saraf pusat",
+        "D": "Termasuk dalam golongan halusinogen"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Zat adiktif adalah zat yang menimbulkan adiksi (ketergantungan) fisik dan/atau psikologis pada penggunanya, dan nikotin termasuk di dalamnya."
+    },
+    {
+      "nomor": 28,
+      "pertanyaan": "Gejala fisik yang muncul akibat penggunaan **amfetamin** (stimulan) dalam dosis tinggi adalah...",
+      "pilihan": {
+        "A": "Penurunan drastis denyut jantung",
+        "B": "Napas lambat dan tekanan darah rendah",
+        "C": "Peningkatan denyut jantung, tekanan darah, dan suhu tubuh",
+        "D": "Hipotermia dan tremor"
+      },
+      "kunciJawaban": "C",
+      "pembahasan": "Amfetamin adalah stimulan yang mempercepat aktivitas sistem saraf pusat, menyebabkan peningkatan drastis fungsi fisiologis seperti denyut jantung dan tekanan darah."
+    },
+    {
+      "nomor": 29,
+      "pertanyaan": "Sebuah balok memiliki berat $100 \\text{ N}$ dan diletakkan di atas lantai. Jika balok memiliki luas alas $0.5 \\text{ m}^2$, maka tekanan yang diberikan balok pada lantai adalah...",
+      "pilihan": {
+        "A": "$50 \\text{ Pa}$",
+        "B": "$100 \\text{ Pa}$",
+        "C": "$200 \\text{ Pa}$",
+        "D": "$400 \\text{ Pa}$"
+      },
+      "kunciJawaban": "C",
+      "pembahasan": "Tekanan ($P$) dihitung dengan rumus $P = \\frac{F}{A}$. Dengan $F = 100 \\text{ N}$ dan $A = 0.5 \\text{ m}^2$, maka $P = \\frac{100}{0.5} = 200 \\text{ N/m}^2$ atau $200 \\text{ Pa}$."
+    },
+    {
+      "nomor": 30,
+      "pertanyaan": "Prinsip yang menjelaskan mengapa pisau yang diasah tajam (luas bidang sentuh kecil) lebih mudah digunakan untuk memotong adalah...",
+      "pilihan": {
+        "A": "Gaya yang lebih kecil menghasilkan tekanan yang besar",
+        "B": "Gaya yang sama menghasilkan tekanan yang lebih besar karena luas bidang sentuh kecil",
+        "C": "Massa jenis pisau berkurang saat diasah",
+        "D": "Tekanan berbanding lurus dengan luas bidang sentuh"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Tekanan berbanding terbalik dengan luas bidang sentuh ($P = F/A$). Untuk gaya potong ($F$) yang sama, pisau tajam dengan luas bidang sentuh ($A$) yang sangat kecil akan menghasilkan tekanan ($P$) yang jauh lebih besar."
+    },
+    {
+      "nomor": 31,
+      "pertanyaan": "Sebuah benda berada di kedalaman $2 \\text{ m}$ di dalam air. Jika massa jenis air $\\rho = 1000 \\text{ kg/m}^3$ dan percepatan gravitasi $g = 10 \\text{ m/s}^2$, besar tekanan hidrostatis yang dialami benda adalah...",
+      "pilihan": {
+        "A": "$10.000 \\text{ Pa}$",
+        "B": "$20.000 \\text{ Pa}$",
+        "C": "$5.000 \\text{ Pa}$",
+        "D": "$2.000 \\text{ Pa}$"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Tekanan hidrostatis ($P_h$) dihitung dengan rumus $P_h = \\rho g h$. $P_h = (1000 \\text{ kg/m}^3) \\times (10 \\text{ m/s}^2) \\times (2 \\text{ m}) = 20.000 \\text{ Pa}$."
+    },
+    {
+      "nomor": 32,
+      "pertanyaan": "Prinsip **Hukum Pascal** diaplikasikan secara luas pada peralatan...",
+      "pilihan": {
+        "A": "Kapal selam dan pelampung",
+        "B": "Dongkrak hidrolik dan rem hidrolik",
+        "C": "Venturimeter dan pipa U",
+        "D": "Pengukur tekanan darah (Sfigmomanometer)"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Hukum Pascal menyatakan bahwa tekanan yang diberikan pada zat cair dalam ruang tertutup akan diteruskan ke segala arah dengan sama besar. Prinsip ini digunakan pada alat-alat hidrolik seperti dongkrak dan rem."
+    },
+    {
+      "nomor": 33,
+      "pertanyaan": "Jika dua buah muatan listrik yang jenisnya berbeda (satu positif dan satu negatif) didekatkan, maka yang terjadi adalah...",
+      "pilihan": {
+        "A": "Kedua muatan akan saling tarik-menarik",
+        "B": "Kedua muatan akan saling tolak-menolak",
+        "C": "Tidak terjadi interaksi",
+        "D": "Muatan positif menjadi netral"
+      },
+      "kunciJawaban": "A",
+      "pembahasan": "Sesuai prinsip elektrostatika, muatan listrik yang tidak sejenis (berbeda) akan saling tarik-menarik, sedangkan yang sejenis akan saling tolak-menolak."
+    },
+    {
+      "nomor": 34,
+      "pertanyaan": "Ketika sebatang plastik (e.g., penggaris) digosok dengan kain wol, yang terjadi adalah...",
+      "pilihan": {
+        "A": "Elektron berpindah dari plastik ke wol, sehingga plastik bermuatan positif",
+        "B": "Elektron berpindah dari wol ke plastik, sehingga plastik bermuatan negatif",
+        "C": "Proton berpindah dari plastik ke wol, sehingga wol bermuatan positif",
+        "D": "Proton berpindah dari wol ke plastik, sehingga plastik bermuatan positif"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Menggosok menghasilkan perpindahan elektron. Plastik memiliki kecenderungan menarik elektron lebih kuat, sehingga elektron berpindah dari wol ke plastik. Plastik kelebihan elektron (negatif), dan wol kekurangan elektron (positif)."
+    },
+    {
+      "nomor": 35,
+      "pertanyaan": "Dua muatan listrik $Q_1$ dan $Q_2$ terpisah sejauh $r$. Jika muatan $Q_1$ diperbesar 2 kali dan jarak antar muatan tetap, maka gaya Coulomb ($F$) yang dialami menjadi...",
+      "pilihan": {
+        "A": "Setengah kali semula",
+        "B": "Dua kali semula",
+        "C": "Empat kali semula",
+        "D": "Tetap"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Gaya Coulomb dirumuskan sebagai $F = k \\frac{Q_1 Q_2}{r^2}$. Karena $F$ berbanding lurus dengan $Q_1$ ($F \\sim Q_1$), jika $Q_1$ diperbesar 2 kali, maka gaya $F$ juga menjadi 2 kali lipat."
+    },
+    {
+      "nomor": 36,
+      "pertanyaan": "Dua muatan $Q_1 = 2 \\times 10^{-6} \\text{ C}$ dan $Q_2 = 3 \\times 10^{-6} \\text{ C}$ terpisah sejauh $0.03 \\text{ m}$. Jika konstanta Coulomb $k = 9 \\times 10^9 \\text{ Nm}^2/\\text{C}^2$, hitung besar gaya Coulomb yang terjadi...",
+      "pilihan": {
+        "A": "$180 \\text{ N}$",
+        "B": "$60 \\text{ N}$",
+        "C": "$30 \\text{ N}$",
+        "D": "$15 \\text{ N}$"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Dengan menggunakan rumus $F = k \\frac{Q_1 Q_2}{r^2}$, maka $F = 9 \\times 10^9 \\times \\frac{(2 \\times 10^{-6}) \\times (3 \\times 10^{-6})}{(0.03)^2} = 9 \\times 10^9 \\times \\frac{6 \\times 10^{-12}}{9 \\times 10^{-4}} = 60 \\text{ N}$."
+    },
+    {
+      "nomor": 37,
+      "pertanyaan": "Tiga buah resistor dihubungkan secara seri, masing-masing $R_1 = 2 \\Omega$, $R_2 = 3 \\Omega$, dan $R_3 = 5 \\Omega$. Jika rangkaian dihubungkan dengan sumber tegangan $10 \\text{ V}$, kuat arus total yang mengalir adalah...",
+      "pilihan": {
+        "A": "$0.5 \\text{ A}$",
+        "B": "$1.0 \\text{ A}$",
+        "C": "$2.0 \\text{ A}$",
+        "D": "$10.0 \\text{ A}$"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Total hambatan seri adalah $R_{\\text{total}} = R_1 + R_2 + R_3 = 2 \\Omega + 3 \\Omega + 5 \\Omega = 10 \\Omega$. Kuat arus total ($I$) dihitung dengan Hukum Ohm: $I = \\frac{V}{R_{\\text{total}}} = \\frac{10 \\text{ V}}{10 \\Omega} = 1.0 \\text{ A}$."
+    },
+    {
+      "nomor": 38,
+      "pertanyaan": "Dua buah resistor $R_1 = 6 \\Omega$ dan $R_2 = 3 \\Omega$ dihubungkan secara paralel, kemudian dihubungkan dengan sumber tegangan $6 \\text{ V}$. Kuat arus total yang mengalir pada rangkaian adalah...",
+      "pilihan": {
+        "A": "$1 \\text{ A}$",
+        "B": "$2 \\text{ A}$",
+        "C": "$3 \\text{ A}$",
+        "D": "$4 \\text{ A}$"
+      },
+      "kunciJawaban": "C",
+      "pembahasan": "Hambatan total paralel ($R_p$) dihitung dengan $\\frac{1}{R_p} = \\frac{1}{R_1} + \\frac{1}{R_2} = \\frac{1}{6} + \\frac{1}{3} = \\frac{1+2}{6} = \\frac{3}{6} \\implies R_p = 2 \\Omega$. Kuat arus total ($I$) adalah $I = \\frac{V}{R_p} = \\frac{6 \\text{ V}}{2 \\Omega} = 3 \\text{ A}$."
+    },
+    {
+      "nomor": 39,
+      "pertanyaan": "Sebuah ampermeter menunjukkan skala $40$ dari skala maksimum $50$. Jika batas ukur yang digunakan adalah $5 \\text{ A}$, maka kuat arus yang terukur adalah...",
+      "pilihan": {
+        "A": "$2 \\text{ A}$",
+        "B": "$4 \\text{ A}$",
+        "C": "$4.5 \\text{ A}$",
+        "D": "$5 \\text{ A}$"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Kuat arus yang terukur dihitung dengan rumus $I = \\frac{\\text{Skala Terbaca}}{\\text{Skala Maksimum}} \\times \\text{Batas Ukur}$. $I = \\frac{40}{50} \\times 5 \\text{ A} = \\frac{4}{5} \\times 5 \\text{ A} = 4 \\text{ A}$."
+    },
+    {
+      "nomor": 40,
+      "pertanyaan": "Ampermeter ideal dipasang pada sebuah rangkaian listrik seri. Jika nilai hambatan total adalah $5 \\Omega$ dan sumber tegangan $15 \\text{ V}$, berapakah nilai yang akan ditunjukkan oleh ampermeter tersebut?",
+      "pilihan": {
+        "A": "$0.3 \\text{ A}$",
+        "B": "$3 \\text{ A}$",
+        "C": "$5 \\text{ A}$",
+        "D": "$75 \\text{ A}$"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Ampermeter mengukur kuat arus total. Berdasarkan Hukum Ohm, $I = \\frac{V}{R} = \\frac{15 \\text{ V}}{5 \\Omega} = 3 \\text{ A}$."
+    }
+  ]
+}
