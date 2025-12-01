@@ -1,29 +1,70 @@
 {
-  "judul": "Soal IPA Kelas 7",
+  "judul": "Latihan Soal IPA - Sistem Tata Surya",
   "soal": [
     {
       "nomor": 1,
-      "pertanyaan": "Apa fungsi klorofil pada tumbuhan?",
+      "pertanyaan": "Proses fotosintesis pada tumbuhan hijau menghasilkan zat-zat yang penting bagi kehidupan. Hasil utama dari proses fotosintesis adalah...",
+      "gambar": null,
       "pilihan": {
-        "A": "Menyerap air dari tanah",
-        "B": "Fotosintesis dan memberi warna hijau",
-        "C": "Menyimpan cadangan makanan",
-        "D": "Melindungi dari hama"
+        "A": "Oksigen dan Glukosa",
+        "B": "Karbon dioksida dan Air",
+        "C": "Nitrogen dan Oksigen",
+        "D": "Hidrogen dan Karbohidrat"
       },
-      "kunciJawaban": "B",
-      "pembahasan": "Klorofil adalah pigmen hijau yang terdapat dalam kloroplas tumbuhan. Fungsi utamanya adalah menyerap energi cahaya matahari untuk proses fotosintesis, serta memberikan warna hijau pada daun."
+      "kunciJawaban": "A",
+      "pembahasan": "Fotosintesis adalah proses pembuatan makanan oleh tumbuhan hijau dengan bantuan sinar matahari. Dalam proses ini, tumbuhan menggunakan karbon dioksida (CO2) dan air (H2O) untuk menghasilkan glukosa (C6H12O6) sebagai makanan dan oksigen (O2) sebagai hasil sampingan yang dilepaskan ke udara."
     },
     {
       "nomor": 2,
-      "pertanyaan": "Organ pernapasan pada ikan adalah?",
+      "pertanyaan": "Planet terbesar dalam sistem tata surya kita adalah...",
+      "gambar": null,
       "pilihan": {
-        "A": "Paru-paru",
-        "B": "Insang",
-        "C": "Trakea",
-        "D": "Kulit"
+        "A": "Mars",
+        "B": "Jupiter",
+        "C": "Saturnus",
+        "D": "Uranus"
       },
       "kunciJawaban": "B",
-      "pembahasan": "Ikan bernapas menggunakan insang. Insang mengambil oksigen yang terlarut dalam air dan membuang karbon dioksida. Air masuk melalui mulut dan keluar melalui celah insang."
+      "pembahasan": "Jupiter adalah planet terbesar dalam sistem tata surya dengan diameter sekitar 139.820 km atau sekitar 11 kali diameter Bumi. Jupiter adalah planet gas raksasa yang memiliki massa 2,5 kali lebih besar dari gabungan semua planet lainnya."
+    },
+    {
+      "nomor": 3,
+      "pertanyaan": "Bagian tumbuhan yang berfungsi menyerap air dan mineral dari dalam tanah adalah...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Daun",
+        "B": "Batang",
+        "C": "Akar",
+        "D": "Bunga"
+      },
+      "kunciJawaban": "C",
+      "pembahasan": "Akar memiliki fungsi utama untuk menyerap air dan mineral dari dalam tanah. Akar juga berfungsi untuk menopang tumbuhan agar berdiri tegak dan menyimpan cadangan makanan. Bagian akar yang menyerap air dan mineral adalah bulu-bulu akar."
+    },
+    {
+      "nomor": 4,
+      "pertanyaan": "Perubahan wujud dari cair menjadi gas disebut...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Membeku",
+        "B": "Mencair",
+        "C": "Menguap",
+        "D": "Mengembun"
+      },
+      "kunciJawaban": "C",
+      "pembahasan": "Menguap adalah proses perubahan wujud dari cair menjadi gas. Contohnya adalah air yang mendidih berubah menjadi uap air. Proses menguap memerlukan panas atau energi."
+    },
+    {
+      "nomor": 5,
+      "pertanyaan": "Sumber energi terbesar di Bumi berasal dari...",
+      "gambar": null,
+      "pilihan": {
+        "A": "Bulan",
+        "B": "Matahari",
+        "C": "Bintang",
+        "D": "Angin"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Matahari adalah sumber energi terbesar di Bumi. Energi matahari berperan penting dalam proses fotosintesis tumbuhan, menghangatkan permukaan Bumi, mempengaruhi cuaca dan iklim, serta dapat dimanfaatkan sebagai energi alternatif (energi surya)."
     }
   ]
 }

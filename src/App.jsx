@@ -90,7 +90,7 @@ export default function QuizApp() {
 
   useEffect(() => {
     const quizzes = [
-      { filename: 'ipa.json', title: 'Latihan Soal ALN IPA', jumlahSoal: 2 },
+      { filename: 'ipa-aln.json', title: 'Latihan Soal ALN IPA', jumlahSoal: 2 },
       { filename: 'mtk.json', title: 'Soal Matematika Kelas 5', jumlahSoal: 2 },
       { filename: 'bahasa.json', title: 'Soal Bahasa Indonesia', jumlahSoal: 1 },
       { filename: 'ips.json', title: 'Soal IPS', jumlahSoal: 1 }
