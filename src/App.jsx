@@ -9,7 +9,7 @@ const sampleQuizzes = {
       {
         nomor: 1,
         pertanyaan: 'Proses fotosintesis pada tumbuhan menghasilkan...',
-        gambar: 'datasoal/images/fotosintesis.jpg', // Path relatif ke folder gambar
+        gambar: 'datasoal/images/fotosintesis.jpg',
         pilihan: { A: 'Oksigen dan Glukosa', B: 'Karbon dioksida', C: 'Nitrogen', D: 'Hidrogen' },
         kunciJawaban: 'A',
         pembahasan: 'Fotosintesis menghasilkan oksigen (O2) dan glukosa (C6H12O6) sebagai produk utama.'
@@ -38,7 +38,7 @@ const sampleQuizzes = {
       {
         nomor: 2,
         pertanyaan: 'Perhatikan gambar persegi berikut. Luas persegi dengan sisi 7 cm adalah...',
-        gambar: 'datasoal/images/persegi.png', // Contoh gambar lokal
+        gambar: 'datasoal/images/persegi.png',
         pilihan: { A: '28 cm²', B: '35 cm²', C: '49 cm²', D: '56 cm²' },
         kunciJawaban: 'C',
         pembahasan: 'Luas persegi = sisi × sisi = 7 × 7 = 49 cm²'
@@ -78,7 +78,7 @@ const sampleQuizzes = {
   }
 };
 
-export default function QuizApp() {
+export default function App() {
   const [currentView, setCurrentView] = useState('select');
   const [quizData, setQuizData] = useState(null);
   const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -160,7 +160,6 @@ export default function QuizApp() {
       setCurrentQuestion(currentQuestion + 1);
       setShowPembahasan(false);
     } else {
-      // Pindah ke halaman summary jika sudah soal terakhir
       setCurrentView('summary');
     }
   };
@@ -184,7 +183,6 @@ export default function QuizApp() {
   const salah = soalData.filter(s => s.status === 'salah').length;
   const belumDijawab = soalData.filter(s => s.status === 'belum').length;
 
-  // ============= HOMEPAGE VIEW =============
   if (currentView === 'select') {
     return (
       <div className="min-h-screen bg-gradient-to-br from-slate-100 via-blue-50 to-indigo-100 p-8">
@@ -198,7 +196,6 @@ export default function QuizApp() {
             </p>
 
             <div className="grid md:grid-cols-2 gap-6 mb-8">
-              {/* Upload Soal */}
               <div className="border-2 border-gray-200 rounded-xl p-6 hover:border-indigo-500 transition">
                 <div className="flex items-center gap-3 mb-4">
                   <div className="bg-indigo-100 p-3 rounded-full">
@@ -223,7 +220,6 @@ export default function QuizApp() {
                 </label>
               </div>
 
-              {/* Pilih Soal */}
               <div className="border-2 border-gray-200 rounded-xl p-6 hover:border-purple-500 transition">
                 <div className="flex items-center gap-3 mb-4">
                   <div className="bg-purple-100 p-3 rounded-full">
@@ -241,7 +237,6 @@ export default function QuizApp() {
               </div>
             </div>
 
-            {/* Daftar Soal */}
             {showQuizList && (
               <div className="mb-8">
                 <div className="bg-purple-50 border-2 border-purple-200 rounded-xl p-6">
@@ -278,7 +273,6 @@ export default function QuizApp() {
               </div>
             )}
 
-            {/* Format JSON */}
             <div className="border-t-2 border-gray-200 pt-8">
               <div className="flex items-center gap-3 mb-4">
                 <div className="bg-blue-100 p-3 rounded-full">
@@ -320,19 +314,6 @@ export default function QuizApp() {
                   <li className="list-disc">Atau gunakan <strong>URL online</strong>: <code className="bg-gray-200 px-1 rounded text-xs">"gambar": "https://example.com/soal1.jpg"</code></li>
                   <li className="list-disc">Format gambar yang didukung: JPG, PNG, GIF, SVG</li>
                 </ul>
-                
-                <div className="mt-3 bg-white rounded p-3 border border-blue-300">
-                  <p className="text-xs font-semibold text-blue-900 mb-2">📁 Struktur Folder yang Disarankan:</p>
-                  <pre className="text-xs bg-gray-800 text-green-400 p-2 rounded">{`project/
-├── index.html
-├── datasoal/
-│   ├── ipa-aln.json
-│   ├── mtk.json
-│   └── images/
-│       ├── soal1.jpg
-│       ├── soal2.png
-│       └── fotosintesis.jpg`}</pre>
-                </div>
               </div>
             </div>
           </div>
@@ -341,7 +322,6 @@ export default function QuizApp() {
     );
   }
 
-  // ============= QUIZ VIEW =============
   if (currentView === 'quiz' && quizData) {
     const currentSoal = quizData.soal[currentQuestion];
     const soalSekarang = soalData[currentQuestion];
@@ -351,7 +331,6 @@ export default function QuizApp() {
       <div className="min-h-screen bg-gradient-to-br from-slate-100 via-blue-50 to-indigo-100 flex flex-col">
         <div className="flex-1 overflow-auto pb-2">
           <div className="p-3 max-w-2xl mx-auto">
-            {/* Header Info */}
             <div className="bg-white p-4 rounded-2xl shadow-md mb-3 border border-slate-200">
               <h2 className="text-lg font-bold mb-3 text-slate-700">Soal No {currentQuestion + 1}</h2>
               <div className="grid grid-cols-3 gap-3">
@@ -370,14 +349,12 @@ export default function QuizApp() {
               </div>
             </div>
 
-            {/* Card Soal */}
             <div className="bg-white rounded-2xl shadow-md p-5 border border-slate-200">
               <div className="max-h-48 overflow-y-auto mb-4 pr-2">
                 <h3 className="text-base font-semibold text-slate-800 leading-relaxed mb-3">
                   {currentSoal.pertanyaan}
                 </h3>
                 
-                {/* Gambar Soal (jika ada) */}
                 {currentSoal.gambar && (
                   <div className="mb-4">
                     <img 
@@ -393,7 +370,6 @@ export default function QuizApp() {
                 )}
               </div>
 
-              {/* Pilihan Jawaban */}
               <div className="space-y-3 mb-4">
                 {pilihan.map(([key, value], index) => {
                   const isSelected = soalSekarang.jawaban === index;
@@ -447,7 +423,6 @@ export default function QuizApp() {
                 })}
               </div>
 
-              {/* Tombol Pembahasan */}
               {soalSekarang.jawaban !== null && (
                 <>
                   <button
@@ -476,7 +451,6 @@ export default function QuizApp() {
           </div>
         </div>
 
-        {/* Footer */}
         <div className="bg-white border-t border-slate-200 p-4 flex items-center justify-between gap-3 shadow-lg">
           <button 
             onClick={prevSoal}
@@ -506,7 +480,6 @@ export default function QuizApp() {
           </button>
         </div>
 
-        {/* Popup Daftar Soal */}
         {showDaftarSoal && (
           <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4">
             <div className="bg-white rounded-2xl shadow-2xl max-w-md w-full max-h-[80vh] overflow-hidden flex flex-col">
@@ -558,17 +531,14 @@ export default function QuizApp() {
     );
   }
 
-  // ============= SUMMARY VIEW =============
   if (currentView === 'summary' && quizData) {
     const totalSoal = soalData.length;
-    const dijawab = soalData.filter(s => s.status !== 'belum').length;
     const score = totalSoal > 0 ? Math.round((benar / totalSoal) * 100) : 0;
 
     return (
       <div className="min-h-screen bg-gradient-to-br from-slate-100 via-blue-50 to-indigo-100 p-4">
         <div className="max-w-3xl mx-auto">
           <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8">
-            {/* Header */}
             <div className="text-center mb-6">
               <div className="inline-flex items-center justify-center w-20 h-20 bg-gradient-to-br from-indigo-500 to-blue-500 rounded-full mb-4">
                 <Check className="w-10 h-10 text-white" strokeWidth={3} />
@@ -581,7 +551,6 @@ export default function QuizApp() {
               </p>
             </div>
 
-            {/* Score Card */}
             <div className="bg-gradient-to-r from-indigo-500 to-blue-500 text-white rounded-2xl p-6 mb-6 text-center shadow-lg">
               <div className="text-6xl font-bold mb-2">{score}%</div>
               <div className="text-lg opacity-90">
@@ -589,7 +558,6 @@ export default function QuizApp() {
               </div>
             </div>
 
-            {/* Statistics */}
             <div className="grid grid-cols-3 gap-4 mb-6">
               <div className="bg-gradient-to-br from-emerald-50 to-teal-50 rounded-xl p-4 text-center border-2 border-emerald-200">
                 <div className="text-3xl font-bold text-emerald-700 mb-1">{benar}</div>
@@ -605,7 +573,6 @@ export default function QuizApp() {
               </div>
             </div>
 
-            {/* Detail Jawaban */}
             <div className="bg-slate-50 rounded-xl p-5 mb-6 border border-slate-200">
               <h3 className="text-lg font-bold text-slate-800 mb-4 flex items-center gap-2">
                 <BookOpen className="w-5 h-5 text-indigo-600" />
@@ -677,7 +644,6 @@ export default function QuizApp() {
               </div>
             </div>
 
-            {/* Motivational Message */}
             <div className="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-xl p-5 mb-6 border border-indigo-200">
               <p className="text-center text-slate-700 leading-relaxed">
                 {score >= 80 ? (
@@ -699,7 +665,6 @@ export default function QuizApp() {
               </p>
             </div>
 
-            {/* Action Buttons */}
             <div className="flex gap-3">
               <button
                 onClick={resetQuiz}
