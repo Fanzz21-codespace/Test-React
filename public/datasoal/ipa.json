@@ -1,0 +1,29 @@
+{
+  "judul": "Soal IPA Kelas 7",
+  "soal": [
+    {
+      "nomor": 1,
+      "pertanyaan": "Apa fungsi klorofil pada tumbuhan?",
+      "pilihan": {
+        "A": "Menyerap air dari tanah",
+        "B": "Fotosintesis dan memberi warna hijau",
+        "C": "Menyimpan cadangan makanan",
+        "D": "Melindungi dari hama"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Klorofil adalah pigmen hijau yang terdapat dalam kloroplas tumbuhan. Fungsi utamanya adalah menyerap energi cahaya matahari untuk proses fotosintesis, serta memberikan warna hijau pada daun."
+    },
+    {
+      "nomor": 2,
+      "pertanyaan": "Organ pernapasan pada ikan adalah?",
+      "pilihan": {
+        "A": "Paru-paru",
+        "B": "Insang",
+        "C": "Trakea",
+        "D": "Kulit"
+      },
+      "kunciJawaban": "B",
+      "pembahasan": "Ikan bernapas menggunakan insang. Insang mengambil oksigen yang terlarut dalam air dan membuang karbon dioksida. Air masuk melalui mulut dan keluar melalui celah insang."
+    }
+  ]
+}
